@@ -1,2 +1,2 @@
-# yertespit
-Yer Tespit
+# Turk-Geolocation
+Türk Yer Tespiti Aracı
