@@ -1,5 +1,5 @@
 #!/bin/bash
-random="yaman"$RANDOM"efkar"
+random="xbowtie"$RANDOM"xbowtie"
 banner(){
 clear
 echo -e "
@@ -10,7 +10,7 @@ echo -e "
 ▓	  𝔏𝔬𝔠𝔞𝔱𝔦𝔬𝔫
 \e[31m███████████████████████████
 
-\e[37m▒░▓▒░▓▒░Yaman Efkar░▒▓░▒▓░▒
+\e[37m▒░▓▒░▓▒░xBowtie░▒▓░▒▓░▒
 
 \e[31m[\e[33m99\e[31m]\e[33mÇıkış (Exit)
 
@@ -40,7 +40,7 @@ else
 	apt install openssh -y 
 	apt install openssl -y
 	apt install php -y
-	cd Lib && echo "Yaman Efkar Tarafından Kodlandı." >> ok.txt
+	cd Lib && echo "xBowtie Tarafından Kodlandı." >> ok.txt
 	cd ..
 	bash tst.sh	
 fi
